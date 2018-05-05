@@ -14,6 +14,7 @@
       - (4byte & 4byte) * N : Key & Value
       - 4byte : NextBID
   - page size = 4 + 8 * N byte
+  
 - Binary file (as B+Tree)
   - File header : Block size, RootBID, Depth (12byte)
   - created Block(node)
