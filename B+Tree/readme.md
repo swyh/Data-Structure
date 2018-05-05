@@ -1,6 +1,25 @@
-# Implementation of a Disk Based B+-Tree
-## Implementation
-- create : binary file 생성
+# Implementation of a Disk Based B+Tree
+- binary file 내에서 Block ID를 이용하여 B+Tree 구조를 유지
+
+## Enviroment
+- C++
+- Input date type : integer (4byte)
+
+## Structure
+- Node (in B+Tree)
+  - Non-leaf node
+      - 4byte : NextLevelBID, 
+      - (4byte & 4byte) * N : Key & BID
+  - Leaf node
+      - (4byte & 4byte) * N : Key & Value
+      - 4byte : NextBID
+  - page size = 4 + 8 * N byte
+- Binary file (as B+Tree)
+  - File header : Block size, RootBID, Depth (12byte)
+  - created Block(node)
+
+## Operation
+- create : File header를 포함한 binary file 생성
 - insert : key, value가 포함된 insert file을 받아 B+Tree 구조로 저장
 - exact search : 입력한 key에 대한 value를 검색 후 출력
 - range search : 입력한 key 범위에 대해 해당되는 key, value 출력
