@@ -1,4 +1,3 @@
-#include "STL.h"
 #include "func.h"
 
 void four_byte_read(ifstream& fin, unsigned int& ptr) {	// 파일로 부터 4byte의 값을 ptr에 가져옴

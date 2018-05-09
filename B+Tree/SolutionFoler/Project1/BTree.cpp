@@ -1,5 +1,3 @@
-#include "STL.h"
-#include "func.h"
 #include "BTree.h"
 
 BTree::BTree(string file_name) {	// file_name의 file을 불러들여 class를 통해 B+Tree 구조를 형성한다.

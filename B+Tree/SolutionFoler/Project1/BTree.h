@@ -1,6 +1,9 @@
 #ifndef BTree_H
 #define BTree_H
 
+#include "STL.h"
+#include "func.h"
+
 #define NON_LEAF 0
 #define LEAF 1
 
