@@ -1,3 +1,28 @@
-﻿  main.cpp
-  Project1.vcxproj -> C:\Users\김영훈\Desktop\YoungHoon\4-1\데이터베이스 응용\12131489\Project1\Debug\Project1.exe
-  Project1.vcxproj -> C:\Users\김영훈\Desktop\YoungHoon\4-1\데이터베이스 응용\12131489\Project1\Debug\Project1.pdb (Full PDB)
+﻿  BTree.cpp
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(42): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(65): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(71): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(139): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(162): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(168): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(208): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(228): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(236): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(249): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(382): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(395): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(399): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(456): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(469): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(471): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(508): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(518): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(520): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+c:\users\김영훈\desktop\swyh\data-structure\b+tree\solutionfoler\project1\btree.cpp(537): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  main.cpp
+  func.cpp
+  Project1.vcxproj -> C:\Users\김영훈\Desktop\swyh\data-structure\B+Tree\SolutionFoler\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\김영훈\Desktop\swyh\data-structure\B+Tree\SolutionFoler\Debug\Project1.pdb (Full PDB)

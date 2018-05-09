@@ -26,14 +26,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BTree.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="STL.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="func.h">
-      <Filter>소스 파일</Filter>
+      <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="STL.h">
-      <Filter>소스 파일</Filter>
+    <ClInclude Include="BTree.h">
+      <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
