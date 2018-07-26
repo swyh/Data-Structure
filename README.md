@@ -11,4 +11,4 @@
 - C/C++
 
 
-In addition, [Algrithm shortcut](https://github.com/swyh/algorithm)
+In addition, [Algorithm shortcut](https://github.com/swyh/algorithm)
